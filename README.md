@@ -6,7 +6,7 @@ It was a project for an Artificial Intelligence course.
 
 ## Authors
 * **[Luis Orofino]**
-* * **[Daniel Casquero]**
+* **[Daniel Casquero]**
 
 ## Project Overview
 
